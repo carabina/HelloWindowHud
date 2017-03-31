@@ -18,7 +18,7 @@ A state bar hud for iOS on window
 
 ## 延时隐藏hud
 ```objc
-[HelloWindowHud hideHudAfterDelay:2];
+[HelloWindowHud hideHudAfterDelay:2.0f];
 ```
 
 ## 显示基本信息自动隐藏
