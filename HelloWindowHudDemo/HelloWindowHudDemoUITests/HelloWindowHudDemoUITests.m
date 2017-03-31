@@ -1,18 +1,18 @@
 //
-//  HelloWindowHudUITests.m
-//  HelloWindowHudUITests
+//  HelloWindowHudDemoUITests.m
+//  HelloWindowHudDemoUITests
 //
-//  Created by guo hongquan on 31/03/2017.
+//  Created by guo hongquan on 01/04/2017.
 //  Copyright © 2017 guo hongquan. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface HelloWindowHudUITests : XCTestCase
+@interface HelloWindowHudDemoUITests : XCTestCase
 
 @end
 
-@implementation HelloWindowHudUITests
+@implementation HelloWindowHudDemoUITests
 
 - (void)setUp {
     [super setUp];

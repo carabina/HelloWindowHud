@@ -1,8 +1,8 @@
 //
 //  main.m
-//  HelloWindowHud
+//  HelloWindowHudDemo
 //
-//  Created by guo hongquan on 31/03/2017.
+//  Created by guo hongquan on 01/04/2017.
 //  Copyright © 2017 guo hongquan. All rights reserved.
 //
 
