@@ -2,6 +2,6 @@
 a state bar hud for iOS on window
 
 ## Hello
-'''objc
+```objc
 [HelloWindowHud showMessage:@"Hello"];
-'''
+```
