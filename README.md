@@ -1,5 +1,5 @@
 # HelloWindowHud
-a state bar hud for iOS on window 
+A state bar hud for iOS on window 
 
 ## 显示基本信息
 ```objc
